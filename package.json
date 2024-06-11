@@ -1,5 +1,5 @@
 {
-    "name": "03tut",
+    "name": "nodejs-tutorial",
     "version": "1.0.0",
     "main": "index.js",
     "scripts": {
@@ -12,5 +12,8 @@
     "dependencies": {
         "date-fns": "^3.6.0",
         "uuid": "^9.0.1"
+    },
+    "devDependencies": {
+        "nodemon": "^3.1.3"
     }
 }
